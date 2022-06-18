@@ -1,0 +1,5 @@
+# ninja log v5
+1	517	6729279851608146	CMakeFiles/TaskA.dir/main.cpp.obj	5b816600a68df6c7
+518	688	6729279853308745	TaskA.exe	b0ba03af03befc4d
+2	329	6729280196074456	CMakeFiles/TaskA.dir/main.cpp.obj	5b816600a68df6c7
+330	446	6729280197216370	TaskA.exe	b0ba03af03befc4d

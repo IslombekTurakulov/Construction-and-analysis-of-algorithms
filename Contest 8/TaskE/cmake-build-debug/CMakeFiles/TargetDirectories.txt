@@ -1,0 +1,3 @@
+D:/Construction and analysis of algorithms/Contest 8/TaskE/cmake-build-debug/CMakeFiles/TaskE.dir
+D:/Construction and analysis of algorithms/Contest 8/TaskE/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Construction and analysis of algorithms/Contest 8/TaskE/cmake-build-debug/CMakeFiles/rebuild_cache.dir

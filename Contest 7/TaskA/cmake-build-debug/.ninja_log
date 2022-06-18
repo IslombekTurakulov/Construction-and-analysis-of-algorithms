@@ -1,0 +1,17 @@
+# ninja log v5
+1	988	6675782351931801	CMakeFiles/TaskA.dir/main.cpp.obj	7d1e028a97a3da3a
+990	1276	6675782354783531	TaskA.exe	b0ba03af03befc4d
+6	862	6675782790085414	CMakeFiles/TaskA.dir/main.cpp.obj	7d1e028a97a3da3a
+863	1161	6675782793015939	TaskA.exe	b0ba03af03befc4d
+6	838	6675783186988761	CMakeFiles/TaskA.dir/main.cpp.obj	7d1e028a97a3da3a
+838	1022	6675783188771800	TaskA.exe	b0ba03af03befc4d
+9	1428	6675789358897556	CMakeFiles/TaskA.dir/main.cpp.obj	7d1e028a97a3da3a
+1428	1806	6675789362626244	TaskA.exe	b0ba03af03befc4d
+6	867	6675789818859953	CMakeFiles/TaskA.dir/main.cpp.obj	7d1e028a97a3da3a
+868	1110	6675789821231518	TaskA.exe	b0ba03af03befc4d
+5	808	6675789979558890	CMakeFiles/TaskA.dir/main.cpp.obj	7d1e028a97a3da3a
+809	1054	6675789981956127	TaskA.exe	b0ba03af03befc4d
+6	947	6675791079026089	CMakeFiles/TaskA.dir/main.cpp.obj	7d1e028a97a3da3a
+947	1219	6675791081692535	TaskA.exe	b0ba03af03befc4d
+7	919	6675791214647107	CMakeFiles/TaskA.dir/main.cpp.obj	7d1e028a97a3da3a
+919	1192	6675791217319358	TaskA.exe	b0ba03af03befc4d

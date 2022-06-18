@@ -1,0 +1,10 @@
+# ninja log v5
+6	772	6763047784168208	CMakeFiles/TaskA.dir/LittleAlgorithm.cpp.obj	566a8581b9e127fa
+3	501	6763047781465234	CMakeFiles/TaskA.dir/main.cpp.obj	a3bc722bec91f948
+753	918	6763048279544128	TaskA.exe	993bb5e5058f9137
+1	93	6763110726239307	build.ninja	62e0db583b544891
+2	753	6763048277884033	CMakeFiles/TaskA.dir/Algorithm.cpp.obj	830911ed39461ce4
+6	1483	6763117761982555	CMakeFiles/TaskA.dir/main.cpp.obj	a3bc722bec91f948
+1484	1808	6763117765172570	TaskA.exe	b0ba03af03befc4d
+2	647	6763188675014655	CMakeFiles/TaskA.dir/main.cpp.obj	a3bc722bec91f948
+647	813	6763188676644566	TaskA.exe	b0ba03af03befc4d

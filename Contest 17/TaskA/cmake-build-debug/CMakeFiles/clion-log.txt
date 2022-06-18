@@ -1,0 +1,4 @@
+C:\JetBrains\Toolbox\apps\CLion\ch-0\221.5080.224\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/JetBrains/Toolbox/apps/CLion/ch-0/221.5080.224/bin/ninja/win/ninja.exe -G Ninja -S "D:\Construction and analysis of algorithms\Contest 17\TaskA" -B "D:\Construction and analysis of algorithms\Contest 17\TaskA\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Construction and analysis of algorithms/Contest 17/TaskA/cmake-build-debug
